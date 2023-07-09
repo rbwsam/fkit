@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ruby-libvirt (0.8.0)
+    thor (1.2.2)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  ruby-libvirt (~> 0.8.0)
+  thor (~> 1.2)
+
+BUNDLED WITH
+   2.4.15
