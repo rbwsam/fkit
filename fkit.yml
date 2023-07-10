@@ -1,0 +1,4 @@
+---
+:hosts: !ruby/object:Set
+  hash:
+    asdf.net: true

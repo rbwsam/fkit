@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 require 'bundler/setup'
-require_relative '../lib/cli/main'
+require_relative '../lib/cli/cli'
 
-CLI::Main.start
+CLI::CLI.start
